@@ -1,0 +1,43 @@
+body{ background-color: rgb(245, 207, 151);}
+
+h1{
+    text-align: center;
+}
+
+li{
+    font-size: 20px;
+}
+
+img{
+height: 300px;
+width:300px ;
+border-radius: 180px;
+}
+
+.img1{
+    margin-left: 70%;
+    width: 300px;
+    text-align: center;
+
+}
+
+.img2{
+    margin-left: 40%;
+    width: 300px;
+    text-align: center;
+
+}
+
+.img3{
+    margin-left: 5%;
+    width: 300px;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+.music{
+    width: 250px;
+}
